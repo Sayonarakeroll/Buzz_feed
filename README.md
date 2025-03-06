@@ -16,8 +16,6 @@ veja essas duas opcoes e veja qual o melhor
 ## Índice
 
 - [Funcionalidades](#funcionalidades)
-- [Como Executar](#como-executar)
-- [Estrutura do Projeto](#estrutura-do-projeto)
 
 ---
 
