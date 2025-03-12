@@ -7,7 +7,7 @@
       "options": [
         { "id": 1, "name": "Cibersegurança", "alias": "A" },
         { "id": 2, "name": "IA e ML", "alias": "B" },
-        { "id": 3, "name": "Engenharia reversa", "alias": "A" },
+        { "id": 3, "name": "Engenharia de Software", "alias": "A" },
         { "id": 4, "name": "Software open source", "alias": "B" },
         { "id": 5, "name": "Criação de malware", "alias": "A" }
       ]
